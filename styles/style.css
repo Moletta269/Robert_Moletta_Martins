@@ -130,7 +130,7 @@ body {
     font-size: 1.8rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 425px) {
     .cabecalho__menu__link {
         font-size: 1.8rem;
     }
