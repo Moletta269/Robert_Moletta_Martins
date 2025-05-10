@@ -130,7 +130,7 @@ body {
     font-size: 1.8rem;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) /*devo mudar o "max-width" para 768px*/ {
     .cabecalho__menu__link {
         font-size: 1.8rem;
     }
@@ -152,7 +152,7 @@ body {
     }
     
     .apresentacao__sobre__conteudo {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     .rodape {
